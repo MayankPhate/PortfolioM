@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
+@media screen and (max-width: 481px){
 *{
     margin: 0;
     padding: 0;
@@ -663,3 +664,4 @@ footer{
   display:flex;
   gap:1rem;
 } 
+}
